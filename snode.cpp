@@ -1,5 +1,5 @@
-#include <iostream>
-
-int main() {
-  std::cout << "hello pointers";
-}
+class SNode {
+  public:
+    int value;
+    SNode *next;
+};
