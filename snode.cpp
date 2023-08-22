@@ -1,5 +1,5 @@
 class SNode {
   public:
     int value;
-    SNode *next;
+    SNode *next_p;
 };
